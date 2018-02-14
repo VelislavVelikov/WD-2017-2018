@@ -1,5 +1,5 @@
 # WD-2017-2018
-h2. Homework project repo    
+<h1> Homework project repo </h1>
 
 h2.TUES-ELSYS
 h2. Web design, Personal project

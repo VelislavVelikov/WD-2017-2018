@@ -4,11 +4,11 @@
 <h3> TUES-ELSYS </h2>
 <h3> Web design, Personal project</h3>
 
-Name: Velislav </br>
+**Name: Velislav </br>
 Family: Velikov </br>
 E-mail: velislavvelikov2@gmail.com </br>
 Class: 11v </br>
-Number: 07 </br>
+Number: 07 </br>**
 
 Project: 
 Life with huskies.

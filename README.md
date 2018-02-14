@@ -1,7 +1,7 @@
 # WD-2017-2018
 h1. Homework project repo    
 
-h1.TUES-ELSYS
+h2.TUES-ELSYS
 h2. Web design, Personal project
 
 Name: Velislav

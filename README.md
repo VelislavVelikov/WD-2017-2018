@@ -1,8 +1,8 @@
 # WD-2017-2018
-Homework project repo
+h1. Homework project repo    
 
-TUES-ELSYS
-Web design, Personal project
+h1.TUES-ELSYS
+h2. Web design, Personal project
 
 Name: Velislav
 Family: Velikov
@@ -13,13 +13,13 @@ Number: 07
 Project: 
 Life with huskies.
 
-Descripion: 
+h2.Descripion: <pre>
 Siberian Huskies and their relatives Alyaskan Malamutes.
-For now the idea for the site is to be in bulgarian but later I may add English version.
+For now the idea for the site is to be in bulgarian but later I may add English version.</pre>
 
 
-Checkpoints:
-1.Some basis 15.02.2018
-2.Almost ready 15.03.2018
-3.Clearing things up  15.04.2018
-Finale: Final version 10/15th may 2018
+h2.Checkpoints:
+h3. 1.Some basis 15.02.2018
+h3. 2.Almost ready 15.03.2018
+h3. 3.Clearing things up  15.04.2018
+h3. Finale: Final version 10/15th may 2018

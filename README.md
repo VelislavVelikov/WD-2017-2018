@@ -1,14 +1,14 @@
 # WD-2017-2018
-<h1> Homework project repo </h1>
+<h2> Homework project repo </h1>
 
-h2.TUES-ELSYS
-h2. Web design, Personal project
+<h3> TUES-ELSYS </h2>
+<h3> Web design, Personal project</h3>
 
-Name: Velislav
-Family: Velikov
-E-mail: velislavvelikov2@gmail.com
-Class: 11v
-Number: 07
+Name: Velislav </br>
+Family: Velikov </br>
+E-mail: velislavvelikov2@gmail.com </br>
+Class: 11v </br>
+Number: 07 </br>
 
 Project: 
 Life with huskies.

@@ -1,51 +1,91 @@
 
-body {
+body.mainn {
 	background: url(../pics/background.png);
 	background-color: black;
 	background-repeat:repeat-x;
     background-attachment: fixed;
 	text-align: center;
+	font-size: 16px;
+	
 }
 
+body.con{
+		background-image: url("../Pics/Background-Contacts.jpg"); 
+			background-color: black;
+			background-repeat:no-repeat;
+			background-size: cover;
+			text-align: center;
+			font-size: 20px;
+}
+
+ul{
+	height: 29px;
+	background-color: #6b6560;
+	padding: 10px 0px 5px 0px;
+}
 
 li{
 	color: black;
 	display: inline;
 	text-decoration: none;
 	underline: none;
-	padding: 2px;
-	border: 5px;
+	padding: 3px;
+	border: 4px;
 	margin: 0px 10px 0px 10px;
-	border-style: ridge;
-	border-color: #7b746f;
+	padding: 1px 1px 1px 1px;
+	border-style: solid;
+	border-color:  #d6cac2;
+	background-color:#b7a395;
 }
 
+.PicsLib{
+	
+  position: relatve;
+    
+}
 
+img{
+	border: 3px solid #73AD21;
+    max-height: 40%;
+    max-width: 40%;
+	min-height: 10%;
+	min-width: 10%;
+}
+
+div.wait{
+	color: white;
+}
+
+footer{
+	color: green;
+}
 
 /* unvisited link */
 a{
 	text-decoration: none;
 	border: 1px;
+	color: green;
 }
+
 a:link {
-    color: white;
 	text-decoration: none;
+    color: green;
 }
 
 /* visited link */
 a:visited {
-    color: white;
 	text-decoration: none;
+    color: white;
 }
 
 /* mouse over link */
 a:hover {
-    color: lightgrey;
 	text-decoration: none;
+    color: green;
 }
 
 /* selected link */
 a:active {
-    color: white;
 	text-decoration: none;
+    color: green;
 }

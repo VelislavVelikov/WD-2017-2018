@@ -20,8 +20,12 @@ For now the idea for the site is to be in bulgarian but later I may add English 
 
 <h3> Checkpoints: </h3> <pre>
   1.Some basis 15.02.2018
-  2.Far away from ready 15.03.2018
-  3.Let's hope my laziness stops  15.04.2018
-  Finale: Final version 10/15th may 2018
+  2.Far away from ready 14.03.2018
+	- May add JS and totally gonna add pictures
+  3.Close to ready(hopefully) 14.04.2018 
+	(Let's hope my laziness stops) 
+	-Something working
+  Finale: Final version 14th may 2018
+	-New features 
 </pre>
 

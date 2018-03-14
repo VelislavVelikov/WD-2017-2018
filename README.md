@@ -1,5 +1,5 @@
 # WD-2017-2018
-Homework project repo
+<h2> Homework project repo </h1>
 
 <h3> TUES-ELSYS </h2>
 <h3> Web design, Personal project</h3>
@@ -18,7 +18,6 @@ Siberian Huskies and their relatives Alyaskan Malamutes.
 For now the idea for the site is to be in bulgarian but later I may add English version.</pre>
 
 
-<<<<<<< HEAD
 Checkpoints:
 1.Some basis 15.02.2018
 2.Far away from ready 15.03.2018
@@ -31,4 +30,4 @@ Finale: Final version 10/15th may 2018
  3.Clearing things up  15.04.2018
  Finale: Final version 10/15th may 2018
 </pre>
->>>>>>> ceb953656fa9a9fd7ef1910b9136407ee2f04de9
+

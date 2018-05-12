@@ -1,12 +1,16 @@
 
 body.mainn {
-	background: url(../pics/background.png);
+	background: url(../pics/background.jpg);
 	background-color: black;
 	background-repeat:repeat-x;
     background-attachment: fixed;
-	text-align: center;
+	text-align: left;
 	font-size: 16px;
 	
+}
+
+div{
+	text-align: center;
 }
 
 body.con{
@@ -19,9 +23,12 @@ body.con{
 }
 
 ul{
+	position: fixed;
+	width: 100%;
 	height: 29px;
-	background-color: #6b6560;
-	padding: 10px 0px 5px 0px;
+	margin-top: .65%;
+	padding: 0px .5% 0px .5%;
+	 outline: none;
 }
 
 li{
@@ -36,24 +43,67 @@ li{
 	border-style: solid;
 	border-color:  #d6cac2;
 	background-color:#b7a395;
+	outline: none;
 }
 
 .PicsLib{
-	
-  position: relatve;
+
+  position: relative;
     
 }
 
-img{
-	border: 3px solid #73AD21;
-    max-height: 40%;
-    max-width: 40%;
-	min-height: 10%;
-	min-width: 10%;
+
+.chngButton{
+	text-align: center;
+	font-size: 18px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	margin: 0px 25px 0px 25px;
+	background-color: darkgrey;
+    color: black;
+    border: 2px solid #555555;
+	outline: none;
+	border-radius: 12px;
 }
 
-div.wait{
+.chngButton:hover {
+    background-color: #555555;
+    color: white;
+
+}
+
+.spacing{
+	max-width: 20%;
+    display: inline block;
+	text-align: center ;
+	max-width: 60%;
+	
+}
+.dasDiv{
+	position: relative;
+	display: inline block;
+	text-align: center;
+	width: 38%;
+	margin-left: 31%;
+	font: 20px;
+	
+}
+
+
+.invisibleText{
+	text-align: center;
+	background-color: rgba(0,0,0,.0);
+	border: 0px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 22px;
 	color: white;
+}
+
+img{
+	border: 3px solid #0c401c;
+    max-height: 40%;
+    max-width: 40%;
+	min-height: 16%;
+	min-width: 16%;
 }
 
 footer{

@@ -78,32 +78,54 @@ li{
 	max-width: 60%;
 	
 }
-.dasDiv{
+.dasDiv,h1{
 	position: relative;
 	display: inline block;
 	text-align: center;
-	width: 38%;
-	margin-left: 31%;
+	width: 56%;
+	margin-left: 22%;
 	font: 20px;
+	color: white;
 	
+}
+
+
+p,h2{
+	position: relative;
+	display: inline block;
+	text-align: justify;
+	width: 60%;
+	margin-left: 20%;
+	background-color: rgba(0,0,0,.2);
+	border: 0px;
+	font-family: cursive, "Comic Sans MS", sans-serif;
+	font-size: 20px;
+	color: white;
 }
 
 
 .invisibleText{
 	text-align: center;
-	background-color: rgba(0,0,0,.0);
+	background-color: rgba(0,0,0,0);
 	border: 0px;
 	font-family: "Comic Sans MS", cursive, sans-serif;
 	font-size: 22px;
 	color: white;
+	width: 60%;
+	margin-left: 20%;
+}
+
+.footere{ 
+	position: absolute; 
+	bottom: 5px;
 }
 
 img{
 	border: 3px solid #0c401c;
-    max-height: 40%;
-    max-width: 40%;
-	min-height: 16%;
-	min-width: 16%;
+    max-height: 50%;
+    max-width: 50%;
+	min-height: 20%;
+	min-width: 20%;
 }
 
 footer{
@@ -112,30 +134,30 @@ footer{
 
 /* unvisited link */
 a{
-	text-decoration: none;
+	text-decoration: underline;
 	border: 1px;
-	color: green;
+	color: white;
 }
 
 a:link {
-	text-decoration: none;
-    color: green;
+	text-decoration: underline;
+    color: white;
 }
 
 /* visited link */
 a:visited {
-	text-decoration: none;
+	text-decoration: underline;
     color: white;
 }
 
 /* mouse over link */
 a:hover {
 	text-decoration: none;
-    color: green;
+    color: lightblue;
 }
 
 /* selected link */
 a:active {
 	text-decoration: none;
-    color: green;
+    color: lightblue;
 }

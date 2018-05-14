@@ -29,3 +29,18 @@ For now the idea for the site is to be in bulgarian but later I may add English 
 	-New features 
 </pre>
 
+<h3> Done(?): </h3> <pre>
+  1.Some basis 15.02.2018		   ✓
+  
+  2.Far away from ready 14.03.2018	   ✓
+	- May add JS and totally 
+	gonna add pictures	           ✓
+  
+  3.Close to ready(hopefully) 14.04.2018   ✗
+	(Let's hope my laziness stops) 	   ✗
+	-Something working		   ✓
+  
+  Finale: Final version 14th may 2018	   ✓
+	-New features 			   ✓
+</pre>
+

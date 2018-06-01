@@ -32,10 +32,10 @@ ul{
 }
 
 li{
-	color: black;
+	color: white;
+	font-size: 20px;
 	display: inline;
 	text-decoration: none;
-	underline: none;
 	padding: 3px;
 	border: 4px;
 	margin: 0px 10px 0px 10px;
@@ -134,19 +134,19 @@ footer{
 
 /* unvisited link */
 a{
-	text-decoration: underline;
+	text-decoration: none;
 	border: 1px;
 	color: white;
 }
 
 a:link {
-	text-decoration: underline;
+	text-decoration: none;
     color: white;
 }
 
 /* visited link */
 a:visited {
-	text-decoration: underline;
+	text-decoration: none;
     color: white;
 }
 
